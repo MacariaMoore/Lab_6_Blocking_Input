@@ -22,7 +22,7 @@ public class HighorLow {
                     System.out.println("The number was: " +ranNum);
                     System.out.println("Your guess is too low!");
                 }else {
-                    System.out.println("The number was: " +ranNum);
+                    System.out.println("The number was: " + ranNum);
                     System.out.println("Your guess is too high!");
                 }
             }else{
