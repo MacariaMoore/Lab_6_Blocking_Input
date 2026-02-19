@@ -21,7 +21,7 @@ public class CtoFConverter {
                 }
             }else{
                 trash = in.nextLine();
-                System.out.println("You said the degrees was " +  trash);
+                System.out.println("You said the degrees was " + trash);
                 System.out.println(" You need to enter a valid number!\n");
             }
         }while(!done);

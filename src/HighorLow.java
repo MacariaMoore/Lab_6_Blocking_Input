@@ -25,7 +25,7 @@ public class HighorLow {
                 }
             }else{
                 trash = in.nextLine();
-                System.out.println("You said the number was " + trash);
+                System.out.println("You said the number was " +trash);
                 System.out.println(" You need to enter a valid number!\n");
             }
         }while(!done);
